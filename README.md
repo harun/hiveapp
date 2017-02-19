@@ -39,3 +39,8 @@ grunt
 ```
 
 6. Open the app in your browser: [http://localhost:8080](http://localhost:8080)
+
+---
+
+Image Credits:
+* header: https://www.flickr.com/photos/usdagov/27264129734
