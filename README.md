@@ -1,8 +1,8 @@
-![openui5](http://openui5.org/images/OpenUI5_new_big_side.png)
+![hiveapp](https://michadelic.github.io/hiveapp/img/hiveapp_header.jpg)
 
-# openui5-worklist-app
+# hiveapp
 
-> [OpenUI5](https://github.com/SAP/openui5) worklist skeleton app using Grunt & Bower.  The SAPUI5 Worklist Application template implements a typical worklist floorplan, one of the design patterns that is specified by the [SAP Fiori Design Guidelines](https://experience.sap.com/fiori-design/). It includes generic application functionality and tests that can be easily extended with custom functionality if needed. You can find more documentation on this template [here](https://sapui5.hana.ondemand.com/#docs/guide/a77f2d29299247f8a3e30226507b1765.html).
+> An app to track and document beehives on your smartphone. More infos to come soon...
 
 ## Getting started
 
@@ -16,8 +16,8 @@ npm install grunt-cli bower -g
 3. Clone the repository and navigate into it
 
    ```sh
-git clone https://github.com/SAP/openui5-worklist-app.git
-cd openui5-worklist-app
+git clone https://github.com/michadelic/hiveapp.git
+cd hiveapp
 ```
 
 1. Install all npm dependencies
